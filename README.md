@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Sergio 👋
+
+```javascript
+const thai = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [Lit-Element],
+}
+```
 
 <!--
 **srgmorante/srgmorante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
