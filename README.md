@@ -1,6 +1,6 @@
 ### Hi there, I'm Sergio, FrontEnd Developer from Spain 👋
 
-<!--```javascript
+```javascript
 const sergio = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
@@ -8,7 +8,7 @@ const sergio = {
 }
 ```
 
-
+<!--
 **srgmorante/srgmorante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
