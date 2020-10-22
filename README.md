@@ -4,7 +4,7 @@
 const sergio = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
-  tools: [Lit-Element, React, Redux],
+  tools: [Lit-Element, web-components, React, Redux],
 }
 ```
 
