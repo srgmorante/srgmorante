@@ -13,7 +13,7 @@ const sergio = {
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working for Sopra Steria in a ING project
+- 🔭 I’m currently working for Sngular
 - 🌱 I’m currently learning Vue
 - 📫 How to reach me: smorantecano@gmail.com
 
